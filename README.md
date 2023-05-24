@@ -29,7 +29,7 @@ bash crackmic.sh
 ```
 ## CrackMic in Terminal
 
-[![Screenshot-2020-12-08-09-48-25-1.png]()]()
+[![Screenshot-2020-12-08-09-48-25-1.png](https://media.discordapp.net/attachments/955813341236965426/1110905828648685568/image.png?width=333&height=141)](https://media.discordapp.net/attachments/955813341236965426/1110905828648685568/image.png?width=333&height=141)
 
 ## References
 
